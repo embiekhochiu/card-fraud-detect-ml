@@ -4,7 +4,8 @@ This project utilizes Logistic Regression to train a model on a credit card tran
 
 **About the dataset:** 
 
-- __Description:__ This dataset contains credit card transactions made by European cardholders in the year 2023, downloaded from kaggle dataset. It comprises over 550,000 records, and the data has been anonymized to protect the cardholders' identities. 
+- __Description:__ This dataset contains credit card transactions made by European cardholders in the year 2023, downloaded from kaggle dataset. It comprises over 550,000 records, and the data has been anonymized to protect the cardholders' identities.
+Links: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023?resource=download
 
 - __Key features:__
 
